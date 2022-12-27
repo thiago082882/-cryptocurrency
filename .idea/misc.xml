@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thiag/.gradle/caches/transforms-3/cda1f96cac4f766c217e9f304502ef85/transformed/material-1.7.0/res/drawable/design_ic_visibility.xml" value="0.1385" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/active_button.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/detail_content_bg.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_back_stack.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_bookmark.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_caret_down.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_caret_up.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_star_outline.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_stats.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/market_content_bg.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/search_field_bg.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/top_gainers_bg.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/drawable/top_losers_bg.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/activity_main.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/currency_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_details.xml" value="0.33" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_home.xml" value="0.2425" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_market.xml" value="0.22" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_top_lose_gain.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_top_loss_gain.xml" value="0.25" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/fragment_watch_list.xml" value="0.25" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/layout/top_currency_layout.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/menu/botton_nav_menu.xml" value="0.18" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/Crypto/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
